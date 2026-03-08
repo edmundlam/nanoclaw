@@ -39,3 +39,6 @@ agents-sdk-docs
 
 # Context folder
 context/
+
+# Claude
+.claude/settings.local.json
